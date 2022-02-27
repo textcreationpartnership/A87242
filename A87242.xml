@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a second letter, sent from the Lord of Inchiquine to the honorable Collonell Michaell Iones commander in chiefe of the Parliaments forces in Leinster, and governor of the citty of Dublin, vvith Colonell Iones his answer, to the Lord of Inchiquines saied letter.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87242</idno>
+            <idno type="STC">Wing I135B</idno>
+            <idno type="STC">ESTC R223518</idno>
+            <idno type="EEBO-CITATION">99896341</idno>
+            <idno type="PROQUEST">99896341</idno>
+            <idno type="VID">154223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a second letter, sent from the Lord of Inchiquine to the honorable Collonell Michaell Iones commander in chiefe of the Parliaments forces in Leinster, and governor of the citty of Dublin, vvith Colonell Iones his answer, to the Lord of Inchiquines saied letter.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>Jones, Michael, d. 1649.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154223:1"/>
+            <pb facs="tcp:154223:1"/>
+            <p>A TRVE COPY OF A ſecond letter, ſent from the Lord of <hi>Inchiquine</hi> to the Honorable Collonell <hi>Michaell Iones,</hi> Commander in chiefe of the Parliaments Forces in <hi>Leinſter,</hi> AND Governor of the Citty of <hi>Dublin,</hi> VVith Colonell <hi>Iones</hi> his Anſwer, To the Lord of <hi>Inchiquines</hi> ſaied Letter.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN</hi> Printed by William Bladen 1649,</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154223:2"/>
+            <pb n="1" facs="tcp:154223:2"/>
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have receiued yours of the <hi>21<hi rend="sup">th</hi>
+               </hi> of Iune, where<g ref="char:EOLhyphen"/>in you referre mee for anſwer to part of mine of Iune <hi>20<hi rend="sup">th</hi>
+               </hi> to what hath paſſed betweene you and his Excellency the Marquis of Ormonde, when I peruſed thoſe papers of yours; I obſerved how you put of the maine objections againſt the chiefe ac<g ref="char:EOLhyphen"/>tors in England as not concerning you at all, can the horrid and treaſonable Paricide of a lawfull Soveraigne, by rebellious Subjects, contrary to all laws of God and man, contrary to ſoe many oathes and obligations, deteſted by all Europe, the abrogation of the antient liberties, and priviledges of Parliament, the totall ſubvertion of the fundamentall conſtitutions of their native country the extream<g ref="char:EOLhyphen"/>eſt violation of the rights and properties of their fellow ſubjects, and the aſſuming, of an abſolute arbitrary power, over their lives and fortunes by the Sword, be crimes of the higheſt nature in the Actors: and yet the maintainers and abbetters of them, in their Tirannicall vſurpations remaine innocent, and unconcerned.</p>
+            <p>I obſerved further how you plead his Majeſties limitation of his Regall power and his committing of the managery of the Iriſh warre, to his two houſes of Parliament in England, and upon that found<g ref="char:EOLhyphen"/>ation, you ground the juſtice of your Proceedings, ſuppoſe the laws of England did tye our common Soveraignes hands from doing acts of grace in Ireland, ſuppoſe they did obliege the ſubjects of this Kingdome in their lives and Eſtates, without their owne conſents, yea before they bee heard, ſuppoſe this doe not render the ſubjects of Ireland, the verieſt ſlaves in the world, nor make voide our free charters as antient and as large as thoſe of England it ſelfe, ſuppoſe that ſolemne Act to introduce the Engliſh ſtatutes into Ireland, to have been needleſse &amp; ſuperfluous, ſuppoſing all you will have to be ſuppoſed, yet now there is not the leaſt ſhadow of the two houſes re<g ref="char:EOLhyphen"/>maining, the upper houſe being quite taken away, and the houſe of Commons, become a ſuppoſitions changling, certainely they are none of his Majeſties two houſes, which have taken away both Majeſty &amp;
+<pb n="2" facs="tcp:154223:3"/>Monarchy, Laſtly that warre hath noe affinity with this, That was to ſuppreſse Rebellion, this to maintaine Rebellion, That was to defend the Proteſtant Religion, the liberties of Parliament, the rights of the ſubject, this is meerely for the ſubvertion of all theiſe p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der thoſe things ſeriouſly, without prejudice, and you will quickly finde what tottering grounds you have laied to ſupport the weight of ſoe much Chriſtian blood and the devaſtation of the whole Kingdome, and how little you have anſwered to his Excellencies reaſons.</p>
+            <p>I propoſed a conference and you reject it, as not conſiſting with Prudence in matters of this conſequence, and ſubject in theſe times to conſtrustions and miſconſtructions, Certainely if advice and de<g ref="char:EOLhyphen"/>liberation be neceſſary it is in maters of moment and Conſequence.</p>
+            <p>If you be your ſelfe, that is free to follow, reaſon and Conſcience and not engaged to the dictates of other men, nor willfully wedded to an implicit faith, but ready to imbrace the truth whenſoever it ſhall be revealed (which every good Chriſtian ought to be) a conference had been the likelieſt meanes, to take away miſconſtructions, and be<g ref="char:EOLhyphen"/>get better conſtructions. This made the office of Embaſſadors ſoe ſacred, that quarrells might not become immortall, for want of con<g ref="char:EOLhyphen"/>ference, &amp; right vnderſtanding There is a bleſſing promiſed to Peace<g ref="char:EOLhyphen"/>makers, but a judgment hangs over their heads who nouriſh conten<g ref="char:EOLhyphen"/>tions, This rejecting of a conference ſeemes to me to argue ſtrongly either a diffidence in your cauſe, or a reſolution, to hold the concluſion without any regard of the premiſſes, or a diſtruſt of my ingenuity. We both profeſſe the ſame ends, why ſhould we differ ſoe much in the meanes, I thought a conference would take away the vaile, and either diſcover our difference in the firſt, or have happily reconciled us in the later, to which I was reſolved to come without prejudice or obſtinacy, contending more for truth then, for victory, as willing to have con<g ref="char:EOLhyphen"/>diſcended to you had you been in the right, as I am unwilling to depart from you <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w, becauſe I am aſſured that you are in the wroung, It is indifferent to me what cauſe is right, ſoe I be in the right cauſe, And though I have left your party, becauſe you have left your prin<g ref="char:EOLhyphen"/>ciples, it is but as a man leaves his brothers houſe, whileſt it is infected with ſome contagious diſeaſe, with a minde to pray for you, and a
+<pb n="3" facs="tcp:154223:3"/>deſire of revnion with you, ſoe ſoone as I may with ſafety, This is not to forſake you, but to provide for myſelfe, you ſay you are ſa<g ref="char:EOLhyphen"/>tisfied in the juſtice of your cauſe admitt you be ſoe, yet take heed this be not for want of due diſcuſſion, or out of an implicit trust, and adherence to others, or a prejudice in your affections, which robbes and betraies reaſon of its due ſuccours, and like a falſe glaſse makes things appear otherwiſe then in truth they are, Be it ſpoken with<g ref="char:EOLhyphen"/>out the beaſt diſparagdment to your perſon or partes, which I honour and deſire to love, you cannot be more reſolute then Saul was in his phariſaicall opinions, or then many thouſand heretickes and Shiſma<g ref="char:EOLhyphen"/>tickes of all ſortes in the world are at this day, who might be cured, if they did not ſtopp their cares, againſt the voice of the Charmer, Principles may be erronious, and nothing is more ordinary then to miſtake a party for a principle, The only reaſon which you give for your reſolution, is that Gods bleſſing hath dwelt viſibly upon your cauſe, as ſtill it doth, when God bleſſeth men in evill courſes, it is the greateſt judgment, his waies are alwaies juſt, but often ſecret, The evening commends the day, and the concluſion often differs from the firſt Acts of the Tragily howſoever, aſcribe not that to the meritts of your cauſe, which may be due to the ſinnes of the advers party.</p>
+            <p>My ſword you ſay hath been proſperous, but you adviſe mee to conſider the cauſe wherein I then appeared, If over my cauſe were juſt (which you confeſſe) it is ſoe ſtill and therefore I may ſtill hope for the ſame bleſſings, yet the proſperouſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of it, did not aſſure mee that it was good, but the goodnes of it did, and ſtill doth give mee hopes that it will be proſperous.</p>
+            <p>But you tax mee now for joineing with the bloody Rebells, and ſetting my ſelfe againſt thoſe of the Proteſtant Religion contrary to my former engagements, how ill doe theſe words become you, who adhere to and maintaine the bloodieſt Rebells in the world, that is thoſe in England, who are ſoe ſtrictly joyned and vnited with Co<g ref="char:EOLhyphen"/>lonell Monke, who if I be not miſinformed, hath made a Ceſſation with the bloodest of thoſe that you intend and recommended them to the Parliament for farr better conditions, then wee give to thoſe who ſubmitt to his Maieſty, This is evident that h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e maintaines, a ſtrict league and correſpondance with them, then with his Majeſties loyall
+<pb n="4" facs="tcp:154223:4"/>Engliſh Subjects, witnes his owne letter to Collonell Collom Brien mac Mahon, the originall whereof is in my hands, excuſing the ta<g ref="char:EOLhyphen"/>king of a prey upon mac Mahons lands, and promiſing his owne endeavour, and major Caddugans for reſtitution thereof, in theſe words, It ſeemes this miſfortune happened to you, upon an Infor<g ref="char:EOLhyphen"/>mation that you were removing with your Creaghts, and that you kept the horſe you have to joyne with Ormondes being of that faction. thoſe whom you call in publique bloody Rebells, you hugge and protect in private, but his Majeſties freinds are thoſe you moſt maligne.</p>
+            <p>Is that an horrid Crime in us which is a vertue in your ſelves, obſerve how partiality doth blind your eyes, is this our Crime that you proſecute with ſuch outcries that wee have not rooted out a nation, and thoſe whoſe anceſtors with their bloods, did propagate the Engliſh intereſt in this Kingdome, but as becometh Chriſtians, have received the penitent to mercy, after they have thruſt from them their miſleaders, That wee acknowledge them for fellow ſub<g ref="char:EOLhyphen"/>jects to whom his Majeſty hath extended his grace, that wee refuſe not their aſſiſtance in the defence of our Common King and Country, now that they have left their unlawfull courſes, to concurre with us in our juſt and pious ends, whom we proſecuted as Rebells formerly, If there were any blemiſh in this as there is none, it reflects princi<g ref="char:EOLhyphen"/>pally on thoſe whoſe Religion infuſing better principles into them, have been to the ſcandall thereof, contrivers and fomenters, of all our miſcheifes, firſt neceſſitating us, to make uſe of the joint concurrenc of thoſe of the Roman cumunion, for our common defence &amp; then blam<g ref="char:EOLhyphen"/>ing us for joyning rather with them then to have both our bodies and ſoules inſlaved by a packe of inſulting Rebells, No, no, ſir wee have ſeen to our cost, how much our diviſions have conduced and would conduce to their greedy and ambitious ends.</p>
+            <p>As for that charge you lay to mee I ſmile at it, and adviſe you ſe<g ref="char:EOLhyphen"/>riouſly to looke into your ſelfe, I have changed the party but not the cauſe, you have changed the cauſe but not the party, make all things the ſame they were pretended to mee and the world, and I am the ſame I ever was, but when time hath diſcovered the hidden miſteries and jugling trickes of cheating mountebankes and impoſters, for moe to
+<pb n="5" facs="tcp:154223:4"/>perſiſt in their fellowſhip, were not conſtancy but ſelfe willed obſtinacy, I have as you deſire ſeriouſly conſidered my former engadgments and the more I ponder the more I finde my ſelfe oblieged in honour and conſcience to deſert that party, I engadged my ſelfe by oath to defend the Kings perſon prerogative and poſterity and therefore I cannot conſent to that execrable murther, of his Majeſty, and the utter diſinheritance of my now gratious Soveraigne, I engadged to preſerve the lawes, and therefore I cannot without wilfull perjury, ſee the lawes ſubverted by a factious Army I engadged to maintaine Religion, and therefore cannot indure to ſee the reſurrection of all ſchimes, herecies blaſphemies, out of the grave of oblivion, wherein they have been long buried, I engadged for the juſt liberties of the Parliament, and people, and therefore am bound to oppoſe the anni<g ref="char:EOLhyphen"/>hilating or exvnaniting the power of Parliament by an handfull of upſtarts and the transferring the people from the ſervice of their law<g ref="char:EOLhyphen"/>full Soveraigne to the vaſſalladge of domineering Rebells give mee leave with the ſame freedome to put you in minde, of your oaths and engadgments, both as a ſubject, and a profeſſor of the lawes and thoſe not obtruded upon you, by feare or force not diſalowed by a lawfull ſuperior nor repugnant to law or precedent obligations.</p>
+            <p>Laſtly for the Proteſtant Religion if you intend that of the Church of England wherein you were baptized and breed wherein your fa<g ref="char:EOLhyphen"/>ther was, your uncles are and your brother profeſſeth to bee an emi<g ref="char:EOLhyphen"/>nent paſtor, I am ready to joine hands and heart with you in the defence and propagation thereof if you deſire a generall Sinod of all the Protestants in Europe, to beget either a neerer vniformity, or a right<g ref="char:EOLhyphen"/>er underſtanding among us, I ſhall endeavour the ſame alſoe, within the bounds of my calling, But if by the Protestant Religion you in<g ref="char:EOLhyphen"/>tend a confuſion or invndation of all thoſe monſtrous and heterogene<g ref="char:EOLhyphen"/>ous errours, which have over ſpread the face of the Engliſh Church, or if you thinke it lawfull for private perſons or ſubordinate, Ma<g ref="char:EOLhyphen"/>geſtrates, without the conſent, againſt the will, of their lawfull So<g ref="char:EOLhyphen"/>veraigne, to introduce novelties into the Church, according to their particular fancies, I muſt crave leave to diſſent from you.</p>
+            <p>And now ſir to conclude all whether you or I doe entend or endea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our more Really the advancement of the Proteſtant Religion, and
+<pb n="6" facs="tcp:154223:5"/>the Engliſh intereſt in this Kingdome, that is the defence of the Eng<g ref="char:EOLhyphen"/>liſh Subject in his juſt propriety the monarch of England in his juſt Soveraignty, I appeale to God the ſearcher of all hearts, and to the tribunall of Chriſt before which wee muſt one day giue an account of our actions much more might be ſaid in our defence but this is ſa<g ref="char:EOLhyphen"/>tisfactory if not to you yet to him who deſireth is be</p>
+            <closer>
+               <dateline>From the Campe of his Maties Army at Fin<g ref="char:EOLhyphen"/>glas <date>the 23<hi rend="sup">th</hi> of Iune 1649.</date>
+               </dateline>
+               <signed>Sir Your friend and Servant Inchiquine</signed>
+            </closer>
+            <postscript>
+               <p>For Collonell Michaell Iones. Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My Lord.</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">Y</seg>Our Lordſhips of this date I re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieved, it being in pur<g ref="char:EOLhyphen"/>ſuance of your former of the 20<hi rend="sup">th</hi> inſtant, Therein I finde</hi> a large recollection <hi>of what had been once and againe forme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly offered and urged by the</hi> Lord of Ormonde, endeavouring the diverting mee from my courſe by laying before mee the late proceedings in England.</p>
+            <p>
+               <hi>The cunto and to your Lordſhip is the</hi> Anſwer <hi>the ſame</hi> ſum<g ref="char:EOLhyphen"/>marily, <hi>which was formerly given on the like occaſion.</hi> That in all that, the ſervice heere is noe way concerned: <hi>only</hi> as to a Chriſti<g ref="char:EOLhyphen"/>an fellow feeling of each others ſuffering, <hi>And</hi> in what this ſervice hath ſuffered by thoſe unhappy differencies obſtructing thoſe ſupplies, whereby the worke heere had been before now finiſhed, <hi>otherwiſe I ſee not</hi> how from thoſe diſtractions in England <hi>is to bee</hi> concluded (<hi>either in</hi> Honour <hi>or</hi> Reaſon) <hi>what you intend</hi> my giving up to the Rebells and their adherents this place and Charge committed mee: <hi>which by Gods grace I ſhall never doe.</hi>
+            </p>
+            <p>
+               <hi>Your Lordſhip now againe preſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th that</hi> Conference <hi>defined in your former. And particularly, you except to my ſaying,</hi> That is
+<pb n="7" facs="tcp:154223:5"/>prudence it was not to bee admitted in matters of this conſequence, <hi>you tell mee;</hi> that if advice and deliberation bee neceſſary it is in matters of moment and conſequence.</p>
+            <p>
+               <hi>(But my Lord) it is not underſtood of adviſing with</hi> Enemies <hi>whoſe</hi> Councells, <hi>although never ſoe ſpecious, are to be</hi> ſuſpected. <hi>Nor was it ſaid</hi> that advice was not neceſſary in matters of conſe<g ref="char:EOLhyphen"/>quence: <hi>but</hi> that diſcourſes and a verball Conference <hi>(which was that ſpoken of,) and that at the diſtance wee are with each other,</hi> was not in prudence to bee admitted eſpecially in cauſes of this con<g ref="char:EOLhyphen"/>ſequence. <hi>The</hi> Lord of Oxmonde <hi>ſoe apprehended it, whole</hi> tranſ<g ref="char:EOLhyphen"/>actions <hi>firſt with the</hi> Iriſh <hi>and after with the</hi> Parliament Commi<g ref="char:EOLhyphen"/>ſſioners <hi>paſſed not</hi> in diſcourſes <hi>but in</hi> writting, <hi>and that as to very circumſtances.</hi> writeing <hi>(ſurely)</hi> not conference <hi>is the</hi> prudent <hi>and cleare way for ſuch proceedings. let not therefore</hi> my de<g ref="char:EOLhyphen"/>clining that your way be <hi>apprehended</hi> as proceeding either out of diffidence of my cauſe; or from a Reſolution to bold the concluſion without reſpect had to the premiſſes; or out of any diſtruſt of your ingenuity: <hi>but as not being a way</hi> ſecure and fatisfactory. <hi>Neither</hi> am I enabled <hi>by the</hi> Parliament <hi>to</hi> diſpute and debate their intreſts otherwiſe then in the way wee now are, by the Sword: <hi>wherin I doubt not of a good concluſion</hi> the Lord <hi>aſiſting mee.</hi>
+            </p>
+            <p>
+               <hi>It troubles you much that I mention</hi> the Lords bleſſing this his owne cauſe with us; <hi>you ſay,</hi> that God bleſſeth men in evill cour<g ref="char:EOLhyphen"/>ſes. <hi>A good cauſe (I know) may ſome time ſuffer. Yet is it not incongruous (Circumſtances conſidered) to conclude</hi> the juſtice of a cauſe from Gods bleſſing it: <hi>ſeeing his bleſſing is expected and aſſured to his worke by ſpeciall promiſe, the ſinnes of thoſe there<g ref="char:EOLhyphen"/>in inſtrumentall not interpoſing. But it ſeemes very ſtrange what you ſay, (and the Stranger, if it bee the ſence of thoſe</hi> Divines <hi>with you</hi>) that God bleſſeth men in evill courſes. <hi>Gods ſuffering them for a time to proceed in evill ſuccesfully,</hi> is not a bleſſing of them in evill courſes, <hi>there being to evill none of Gods blesſings appropriated. But</hi> for us, <hi>it is our comfort that wee can and doe thus boaſt</hi> of the Lords bleſſing this his worke in our hands, <hi>wherein hath been mightily, &amp; viſibly magnified the</hi> Glorie <hi>of his</hi> power <hi>and</hi> truth <hi>and</hi> goodneſse <hi>even in the loweſt of our Condition,</hi> to
+<pb n="8" facs="tcp:154223:6"/>us an Evidence of his owne cauſe with us. <hi>And</hi> in ſoe concluding <hi>I but aſſume the ſame freedome, which</hi> your Lordſhip <hi>hath done: you having (in effect)</hi> ſoe concluded from the ſuccesfullnes of your Sword: <hi>And</hi> this our cauſe is the ſame <hi>with that which your Lord<g ref="char:EOLhyphen"/>ſhip</hi> ſeemed <hi>then to hold.</hi>
+            </p>
+            <p>
+               <hi>Your Lordſhip</hi> juſtifieth your joyning with the Rebells <hi>by way of</hi> Recrimination; objecting the ſame to others. <hi>If</hi> to mee you intend it, <hi>I ſpeake it plainly, it is a Charge very unjuſt, (to ſay no more)</hi>
+            </p>
+            <p>
+               <hi>But</hi> as to your ſelfe, <hi>you ſtick not openly to profeſſe and juſtify your proceedings in that kinde, aſſerting it</hi> a Chriſtian act: <hi>for</hi> therein <hi>(you ſay)</hi> you Received penitents; <hi>ſtrange</hi> Penitents <hi>are they, who after ſoe much blood, and ſpoile of Innocents are now ſoe farre from ſatisfiing their wrong doings, that they profeſſe themſelves not guilty: and whoſe</hi> Penitence <hi>is only in that they failed in accompliſhing their evill in fullnes; which in the now ſetling them in that power given in your</hi> Chriſtian union <hi>with them, they may haue hereafter fitting opertunity to accompliſh to the uttermoſt, ſoe, as they may not need further</hi> Penitence <hi>in that Particular.</hi>
+            </p>
+            <p>You ſmile <hi>(you ſay) at</hi> that Charged to you of your Changing. <hi>At it (my Lord) do your Enemies</hi> ſmile: <hi>but</hi> griefe <hi>it is to your friends, and all well affected. who your friend, can</hi> ſmile <hi>at your</hi> falling away <hi>and (to ſpeake plainely)</hi> at your betraying that truſt repoſed in you? <hi>can</hi> you ſmile <hi>at you turning that ſword put into your hands by the</hi> Parliament, <hi>againſt thoſe who have ſoe truſt<g ref="char:EOLhyphen"/>ed and maintained you? were</hi> you called out againſt theſe bloody Rebells, and for the Proteſtants, <hi>and can you</hi> ſmile <hi>to ſee your ſelfe now in the</hi> head of thoſe very Rebells <hi>or with them, and for them, and that, againſt even</hi> Engliſh <hi>and</hi> Proteſtants? <hi>can you</hi> ſmile <hi>(my Lord) in your betraying</hi> thoſe poore Engliſh <hi>(your Care and truſt,) and in offering them up (in time) a ſacrifice to the malice of their mortall Enemies, having firſt removed (and by their hands alſoe, which is intended) thoſe here, who pitty them, and by whom they might bee from thoſe evills reſcued. You tell me,</hi> that you have not changed your Cauſe but your Party, <hi>and what was your Cauſe then (I beſeech you) and what is it
+<pb n="9" facs="tcp:154223:6"/>now? was not</hi> the proſecution of this Warre againſt the Rebells then your Cauſe? <hi>this was ſurely your</hi> Truſt <hi>and (for any thing ap<g ref="char:EOLhyphen"/>pearing) was it</hi> that <hi>only or</hi> principally in your truſt? <hi>and are you not now taken of from this? is this your</hi> Cauſe <hi>now?</hi> are you not now changed to the quite contrary? your Cauſe <hi>(you ſay)</hi> is the maintenance of the King, of Laws, of Religion, and of the Liberties of Parliament. <hi>ſo indeed in your</hi> Covenant. <hi>But your ſticking unto theſe (if unto them you ſticke) excuſeth you nothing, as to your</hi> failing in that principally Committed to you in that Province, the employing thoſe Armes and powers given you againſt the Rebells our common Enemies. <hi>There is not the meaneſt</hi> Covenanter <hi>who pre<g ref="char:EOLhyphen"/>tends not</hi> equall intreſt with you <hi>in</hi> theſe common engagements; <hi>but</hi> you were, <hi>beſides all heſe,</hi> eminently called above others to that high truſt, from which you have ſoe fallen as <hi>your</hi> Honour <hi>is no way ſalved no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vindi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated by a pretended adheiring to other your profeſſion.</hi> your doing ſomethings, excuſeth not your failing in that principally expected from you.</p>
+            <p>
+               <hi>You object to us</hi> new raiſed Hereſies <hi>&amp;c. wee</hi> deteſt them <hi>as much as</hi> you <hi>or</hi> any; <hi>neither account we them any part of our</hi> Doctrine, <hi>and of the</hi> Religion now profeſſed in the Church of England <hi>I wiſh</hi> ſome <hi>of your</hi> Lordſhips Divines now with you (<hi>whoſe</hi> pennes <hi>are parhapps</hi> in this Charge to us) <hi>were not</hi> chargable with corruption in that kinde, <hi>makeing way for</hi> Hereſies, <hi>and even</hi> for Popery it ſelfe alſoe, <hi>being thereby, with others of like ſtraine,</hi> authors <hi>of</hi> thoſe evills <hi>this day covering the face of</hi> Church <hi>and</hi> State, <hi>where<g ref="char:EOLhyphen"/>of they may bee in due time ſenſible.</hi>
+            </p>
+            <p>Much more <hi>(you ſay)</hi> might bee ſaid in your defence <hi>I beſeech your Lordſhip to re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erve it for</hi> ſome time of better leaſure, <hi>and</hi> for ſome other perſon fitter for ſuch debateings. <hi>Wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have now done, was for ſhewing</hi> my ſelfe <hi>nothing ſatisfied with any thing yet by your Lordſhip delivered, and that</hi> others <hi>might not bee abuſed in ſuffering yours to paſſe me unanſwered. But for the</hi> future, I <hi>deſire, your Lordſhip would be pleaſed not to trouble your ſelfe not mee in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kinde any further. I am otherwiſe emploved then
+<pb n="10" facs="tcp:154223:7"/>to ſpend time in anſwering</hi> ſome there, <hi>whoſe penns are at better leaſure then either yours or mine at preſent. So I remaine</hi>
+            </p>
+            <closer>
+               <salute>My Lord</salute>
+               <signed>Your Lordſhips humble Servant <hi>Mic: Iones.</hi>
+               </signed>
+               <dateline>Dublin <date>Iune 23<hi rend="sup">th</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Lord Baron of <hi>Inchiquine</hi> Theſe.</p>
+            </postscript>
+            <pb facs="tcp:154223:7"/>
+            <pb facs="tcp:154223:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154223:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154223:9"/>
+            <pb facs="tcp:154223:9"/>
+            <pb facs="tcp:154223:10" rendition="simple:additions"/>
+            <pb facs="tcp:154223:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
